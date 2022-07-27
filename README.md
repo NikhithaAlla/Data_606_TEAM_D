@@ -67,7 +67,12 @@ In this project, we are planning to use machine learning approaches like Random 
 
 ### How do you plan to develop/apply ML and how do you evaluate/compare the performance of the models? ###
 
-![image](https://user-images.githubusercontent.com/78180757/173258273-cbcdfe8d-b965-4d58-bc4b-e7ba29e901de.png)
+In our project we are using the following ML algorithms:
+*Decision Tree
+*Naive Bayes
+*Logistic Regression
+*Random Forest 
+*XG Boost
  
 ### What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practical applications, etc)? ###
 
