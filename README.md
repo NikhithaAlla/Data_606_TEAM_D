@@ -95,6 +95,13 @@ In our project we are using the following ML algorithms:
 The fundamental goal of this project is to investigate and analyze different techniques for detecting plant leaf disease using image processing techniques and propose improvements in existing classification techniques for plant leaf disease detection using machine learning. The proposed system assists farmers in selecting the appropriate crop by delivering information that regular farmers are unaware of, reducing crop failure and improving output. It also helps them avoid losing money.
 Despite the many solutions that have recently been suggested, there are still open challenges in developing a user-friendly crop recommendation application. The proposed solution aims to address these limitations by creating a user-friendly application that considers rainfall, temperature, soil type, and other factors that directly affect cultivation. The main goal is to increase the number of crops grown throughout the season.
 
+# Results #
+
+This model attained a success rate of 97.33 percent on the training dataset and 97.78 percent on the validation set after 150 continuous epochs. Following the training session, the exam with random pictures went successfully. It was a remarkable level of precision. After examining the result and confusion matrix, it is clear that our model's performance is satisfactory. Our model's total performance is shown below
+
+![results](https://user-images.githubusercontent.com/78180757/185813319-5ab8b2d2-2552-47c7-ad68-c6e7e19cc983.png)
+
+
 ### References: ###
 [1]. https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/adverse-events.html
 
